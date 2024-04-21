@@ -2,7 +2,7 @@
 
 ### About me
 <p>
-  As a Full Stack Developer I have knowledge and practice in <b>C#</b>, <b>Java</b>, <b>C++</b>, <b>Java</b>, <b>Java</b>, <b>Spring technologies Boot</b>, <b>Hibernate</b>, <b>ASP.NET</b>, <b>React</b>, <b>Angular</b>, <b>Javascript</b> b>, <b>JSON (JavaScript Object Notation)</b>, <b>HTML5 (HiperText Markup Language)</b>, <b>Bootstrap 5</b>, <b>CSS3 (Cascading Style Sheet) </b> and <b>TypeScript</b>.
+  As a Full Stack Developer I have knowledge and practice in <b>C#</b>, <b>Java</b>, <b>C++</b>, <b>Java</b>, <b>Java</b>, <b>Spring technologies Boot</b>, <b>Hibernate</b>, <b>ASP.NET</b>, <b>React</b>, <b>Angular</b>, <b>Javascript</b>, <b>JSON (JavaScript Object Notation)</b>, <b>HTML5 (HiperText Markup Language)</b>, <b>Bootstrap 5</b>, <b>CSS3 (Cascading Style Sheet) </b> and <b>TypeScript</b>.
 </p>
 
 <p>
